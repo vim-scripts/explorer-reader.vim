@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1227
+
+with this script you can quickly preview files
+in a directory. For example execute these commands
+in a directory with many text files
+:cd dir_with_many_text_files
+:vi .
+or
+:vi dir_with_many_text_files
+then by pressing page down you will preview files.
+Pressing down will scroll the preview one line at a time and 
+pressing page down while on the preview 
+it will focus on the explorer window
